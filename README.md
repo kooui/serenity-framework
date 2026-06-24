@@ -136,6 +136,10 @@ MIT License
 
 详细说明请查看 [framework/](framework/) 目录。
 
+#### 1.5 可视化概览
+
+![Serenity 框架金字塔](assets/framework_pyramid.svg)
+
 #### 2. 应用到股票
 
 使用[分析模板](examples/template.md)分析任何股票：
