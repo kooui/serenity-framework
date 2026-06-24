@@ -39,7 +39,7 @@ For details, see [framework/](framework/).
 
 #### 1.5 Visual Overview
 
-![Serenity Framework Pyramid](assets/framework_pyramid.svg)
+![Serenity Framework Pyramid](framework_pyramid.svg)
 
 #### 2. Apply to a Stock
 
@@ -138,7 +138,7 @@ MIT License
 
 #### 1.5 可视化概览
 
-![Serenity 框架金字塔](assets/framework_pyramid.svg)
+![Serenity 框架金字塔](framework_pyramid.svg)
 
 #### 2. 应用到股票
 
