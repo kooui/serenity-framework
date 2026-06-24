@@ -37,6 +37,10 @@ Layer 5: Day Trading Execution (around core positions)
 
 For details, see [framework/](framework/).
 
+#### 1.5 Visual Overview
+
+![Serenity Framework Pyramid](assets/framework_pyramid.svg)
+
 #### 2. Apply to a Stock
 
 Use the [analysis template](examples/template.md) to analyze any stock:
